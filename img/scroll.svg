@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Bold" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 2017.8" style="enable-background:new 0 0 512 2017.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<path class="st0" d="M256,0C114.6,0,0,114.6,0,256c0,141.4,114.6,256,256,256s256-114.6,256-256C512,114.6,397.4,0,256,0z
+	 M256,463.6c-114.7,0-207.6-93-207.6-207.6S141.3,48.4,256,48.4s207.6,93,207.6,207.6S370.7,463.6,256,463.6z"/>
+<g>
+	<rect x="231.8" y="612.8" class="st0" width="48.4" height="1344.3"/>
+	
+		<rect x="176.8" y="1826.7" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -1304.901 707.0412)" class="st0" width="48.4" height="203.9"/>
+	
+		<rect x="286.8" y="1826.7" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -832.9097 3512.3484)" class="st0" width="48.4" height="203.9"/>
+</g>
+<circle class="st0" cx="256" cy="256" r="89.6"/>
+</svg>

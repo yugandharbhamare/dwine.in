@@ -266,6 +266,25 @@ h6 {
 .delicious img {
   width: 40%;
 }
+
+.social-media-pannel {
+  position: absolute;
+  right: 50px;
+  top: 0;
+  bottom: 0;
+  width: 36px;
+  z-index: 20;
+}
+
+.social-media-pannel a {
+  opacity: 1;
+  transition: 0.2 ease-in;
+}
+
+.social-media-pannel a:hover {
+  opacity: 0.6;
+  transition: 0.2 ease-out;
+}
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
