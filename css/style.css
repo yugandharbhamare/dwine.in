@@ -190,7 +190,7 @@ h6 {
 #header .logo img {
   padding: 0;
   margin: 7px 0;
-  max-height: 26px;
+  max-height: 30px;
 }
 
 .main-pages {
@@ -329,14 +329,6 @@ h6 {
   position: relative;
 }
 
-.main-nav .drop-down ul a {
-  padding: 10px 20px;
-  font-size: 14px;
-  font-weight: 500;
-  text-transform: none;
-  color: #065e77;
-}
-
 .main-nav .drop-down ul a:hover,
 .main-nav .drop-down ul .active > a,
 .main-nav .drop-down ul li:hover > a {
@@ -381,7 +373,7 @@ h6 {
   left: -260px;
   width: 260px;
   padding-top: 18px;
-  background: rgba(40, 38, 70, 0.8);
+  background: #212018;
   transition: 0.4s;
 }
 
@@ -402,7 +394,7 @@ h6 {
 .mobile-nav a:hover,
 .mobile-nav .active > a,
 .mobile-nav li:hover > a {
-  color: #8dc2fa;
+  color: #f79226;
   text-decoration: none;
 }
 
@@ -448,7 +440,7 @@ h6 {
 
 .mobile-nav-toggle i {
   margin: 18px 18px 0 0;
-  color: #065e77;
+  color: white;
 }
 
 .mobile-nav-overly {
@@ -458,7 +450,7 @@ h6 {
   top: 0;
   left: 0;
   position: fixed;
-  background: rgba(40, 38, 70, 0.8);
+  background: #212018c5;
   overflow: hidden;
   display: none;
 }
@@ -1540,6 +1532,7 @@ h6 {
 @media (max-width: 767px) {
   #intro {
     height: 90vh;
+    min-height: 480px;
     padding: 65px 0 0 0;
   }
 
@@ -1549,6 +1542,18 @@ h6 {
 
   #intro .intro-img {
     width: 80%;
+  }
+
+  .yummy img {
+    width: 60%;
+  }
+
+  .tasty img {
+    width: 60%;
+  }
+
+  .delicious img {
+    width: 60%;
   }
 
   #intro .intro-info {
