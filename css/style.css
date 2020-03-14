@@ -1191,6 +1191,23 @@ h6 {
   background: #0a98c0;
 }
 
+.btn-brochure {
+  background: transparent;
+  border: solid #212018 1px;
+  border-radius: 4px;
+  padding: 10px;
+  padding-left: 24px;
+  padding-right: 24px;
+  color: #212018;
+  font-weight: 500;
+  transition: 0.3s ease-in;
+}
+
+.btn-brochure:hover {
+  background: #212018;
+  color: #ffffff;
+}
+
 /* Frequently Asked Questions Section
 --------------------------------*/
 
